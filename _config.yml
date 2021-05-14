@@ -5,7 +5,7 @@ title: "Wallpaper Home" # site's title
 description: "jekyll-theme-wallpaper-home" # used by search engines
 author: "Rodrigo M Vega"
 logo: assets/img/profile.svg
-background-img: assets/img/wallpaper.jpg
+background-img: assets/img/face.jpg
 overlay-top: 0.2
 overlay-bottom: 0.8
 intro-width: 35em
