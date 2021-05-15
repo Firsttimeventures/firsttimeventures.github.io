@@ -15,6 +15,7 @@ f(x | \mu, \sigma^2) = \frac{1}{\sqrt{2\pi\sigma^2}}
 e^{-\frac{(x - \mu)^2}{2\sigma^2}}
 $$
 
-Edit this content in `index.md`.
+Edit this content in `index.md`. 
 
+-->
 
