@@ -3,7 +3,7 @@ layout: home
 hide: true
 ---
 
-# Ciao
+<!-- # Ciao
 
 A simple jekyll theme for a personal page.  This text here will be your
 *welcome* message, you should be able to use all the *markdown* you want
