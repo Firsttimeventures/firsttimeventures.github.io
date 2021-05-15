@@ -1,9 +1,9 @@
 # SITE CONFIGURATION
 url: "https://firsttimeventures.github.io"
-baseurl: "/jekyll-theme-wallpaper-home"
+baseurl: ""
 title: "Wallpaper Home" # site's title
 description: "jekyll-theme-wallpaper-home" # used by search engines
-author: "Rodrigo M Vega"
+author: "Stefano Zorzi"
 logo: assets/img/profile.svg
 background-img: assets/img/face.jpg
 overlay-top: 0.2

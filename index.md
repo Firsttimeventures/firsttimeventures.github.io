@@ -17,5 +17,4 @@ $$
 
 Edit this content in `index.md`.
 
-Photo by [Andrea Reiman](https://unsplash.com/@firstmohican) on
-[Unsplash](https://unsplash.com/).
+
