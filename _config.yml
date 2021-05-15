@@ -4,7 +4,7 @@ baseurl: ""
 title: "Wallpaper Home" # site's title
 description: "jekyll-theme-wallpaper-home" # used by search engines
 author: "Stefano Zorzi"
-logo: assets/img/profile.svg
+logo: 
 background-img: assets/img/wallpaper.jpg
 overlay-top: 0.2
 overlay-bottom: 0.8
