@@ -14,7 +14,7 @@ dark: false
 math: true
 # theme: jekyll-theme-wallpaper-home
 
-# GOOGLE FONTS
+# GOOGLE FONTSw
 
 google-fonts:
   main-font: "Open+Sans"
@@ -25,14 +25,14 @@ google-fonts:
 social:
   mail: stefano@firsttimeventures.com
   twitter:
-  rss: true
+  rss: 
   behance:
   bitbucket:
   dribbble:
   facebook:
   flickr:
   gitlab:
-  github: rmvegasm/jekyll-theme-wallpaper-home
+  github: 
   instagram:
   keybase:
   linkedin: # full url
@@ -48,9 +48,9 @@ social:
 
 # FOOTER TEXT
 footer-text: >
-  Powered by <a href="http://jekyllrb.com/">Jekyll</a>,
+  <Powered by <a href="http://jekyllrb.com/">Jekyll</a>,
   <a href="https://getbootstrap.com/">Bootstrap</a> 
-  and <a href="http://github.com/">Github</a>.
+  and <a href="http://github.com/">Github</a>
 
 # BUILD SETTINGS
 markdown: kramdown
